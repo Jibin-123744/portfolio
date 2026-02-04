@@ -32,3 +32,18 @@
 .btn:hover {
     background-color: #0056b3;
 }
+.btn {
+    display:inline-block;
+     padding: 10px 15px;
+     background-color: #0a66c2;
+     color: white;
+     text-decoration: none;
+    border-radius: 5px;
+     font-weight: bold;
+     
+
+
+
+
+
+
